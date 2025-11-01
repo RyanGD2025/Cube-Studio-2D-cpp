@@ -1,4 +1,3 @@
-![Cube Studio 2D]
-(Pictures/cubestudio2dlogo.png)
+![Logo Cube Studio](cubestudio2dlogo.png)
 # Cube-Studio-2D-cpp
 Cube Studio 2D is a game engine that has a language called: CSScript and it's avaliable for Android, PC and iOS
